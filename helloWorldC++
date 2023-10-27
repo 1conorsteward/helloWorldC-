@@ -1,0 +1,6 @@
+#include <iostream>
+//Here is the main function of the file. Not too much to it. Should print "Hello World!"
+int main() {
+    std::cout << "Hello World!" << std::endl;
+    return 0;
+}
